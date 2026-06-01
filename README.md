@@ -1,5 +1,5 @@
-<a href="https://github.com/Synaptara">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
+<a href="https://github.com/LordArtRoll">
+  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="LordArtRoll Banner"/>
 </a>
 
 <div align="center">
