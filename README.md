@@ -15,7 +15,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
+<img src="/static/img1.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
   <h3>Hey there! I’m Karthick</h3>
