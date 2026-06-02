@@ -18,8 +18,11 @@
 <img src="/static/img1.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
-  <h3>Hey there! I’m Karthick</h3>
-  I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+  <h3>Hey there! I’m ArtRoll</h3>
+  I'm a Network Security specialist fueled by tea, ramen, and an unhealthy obsession with minimalist dark themes.
+  By day, I hunt down vulnerabilities, analyze traffic, and convince myself that the network is finally secure.
+  By night, I write Python scripts to automate myself out of doing actual work.
+  When I'm not coding, I'm busy running my Clash of Clans village like a Fortune 500 company, where every upgrade is a strategic investment and every clan war feels like a board meeting gone horribly wrong.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
