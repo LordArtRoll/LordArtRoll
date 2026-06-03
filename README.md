@@ -1,5 +1,5 @@
 <a href="https://github.com/LordArtRoll">
-  <img src="./static/banener.png" width="100%" alt="LordArtRoll Banner"/>
+  <img src="./static/baner.jpg" width="100%" alt="LordArtRoll Banner"/>
 </a>
 
 <div align="center">
