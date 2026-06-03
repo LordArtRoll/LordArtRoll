@@ -76,12 +76,13 @@
         <strong>Network Security</strong>
       </td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/NETWORK+-000000?style=for-the-badge&logo=comptia&logoColor=white">
         <img src="https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=white">
         <img src="https://img.shields.io/badge/SECURITY+-000000?style=for-the-badge&logo=comptia&logoColor=white">
-        <img src="https://img.shields.io/badge/CEH-000000?style=for-the-badge&logo=ec-council&logoColor=white">
+        <img src="https://img.shields.io/badge/LPIC--1-000000?style=for-the-badge&logo=linux&logoColor=white">
+        <img src="https://img.shields.io/badge/LPIC--2-000000?style=for-the-badge&logo=linux&logoColor=white">
         <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=white">
-        <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
+        <img src="https://img.shields.io/badge/NMAP-000000?style=for-the-badge&logo=nmap&logoColor=white">
+        <img src="https://img.shields.io/badge/CEH-000000?style=for-the-badge&logo=ec-council&logoColor=white">
       </td>
     </tr>
     <tr>
