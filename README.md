@@ -76,7 +76,7 @@
         <strong>Network Security</strong>
       </td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Network-Security-blue">
         <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
