@@ -65,22 +65,9 @@
 <br clear="right"/>
 <br>
 
-<div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
-  
-  <br>
-</div>
-
-<div align="center">
-  <p align="center">
-  <img src="https://github.com/LordArtRoll/LordArtRoll/blob/output/github-snake-dark.svg" width="100%">
-</p>
-</div>
-
 <br><br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
   <br>
   <br>
   <br>
