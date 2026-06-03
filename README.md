@@ -76,12 +76,12 @@
         <strong>Network Security</strong>
       </td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/Network-Security-blue">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
+        <img src="https://img.shields.io/badge/NETWORK+-000000?style=for-the-badge&logo=comptia&logoColor=white">
+        <img src="https://img.shields.io/badge/CCNA-000000?style=for-the-badge&logo=cisco&logoColor=white">
+        <img src="https://img.shields.io/badge/SECURITY+-000000?style=for-the-badge&logo=comptia&logoColor=white">
+        <img src="https://img.shields.io/badge/CEH-000000?style=for-the-badge&logo=ec-council&logoColor=white">
+        <img src="https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=white">
+        <img src="https://img.shields.io/badge/KALI_LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
       </td>
     </tr>
     <tr>
